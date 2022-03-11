@@ -1,0 +1,16 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  margin: 50px;
+  /* border-radius: 50%; */
+  box-shadow: 5px 5px 20px 20px rgba(0, 0.1, 0, 0.5);
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #0f0;
+  height: 100vh;
+  align-items: stretch;
+}
